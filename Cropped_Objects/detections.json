@@ -1,0 +1,50 @@
+[
+    {
+        "object_id": 1,
+        "label": "vase",
+        "confidence": 0.676,
+        "bbox": [
+            124,
+            136,
+            191,
+            213
+        ],
+        "cropped_image": "cropped_objects\\vase_1.jpg"
+    },
+    {
+        "object_id": 2,
+        "label": "vase",
+        "confidence": 0.393,
+        "bbox": [
+            41,
+            134,
+            105,
+            212
+        ],
+        "cropped_image": "cropped_objects\\vase_2.jpg"
+    },
+    {
+        "object_id": 3,
+        "label": "potted plant",
+        "confidence": 0.33,
+        "bbox": [
+            2,
+            14,
+            213,
+            212
+        ],
+        "cropped_image": "cropped_objects\\potted plant_3.jpg"
+    },
+    {
+        "object_id": 4,
+        "label": "potted plant",
+        "confidence": 0.296,
+        "bbox": [
+            107,
+            44,
+            211,
+            212
+        ],
+        "cropped_image": "cropped_objects\\potted plant_4.jpg"
+    }
+]
